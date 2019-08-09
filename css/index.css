@@ -353,3 +353,18 @@ footer nav a {
         margin-top: 1%;
         margin-bottom: 3%;
     }
+
+    .bottom.area {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-bottom: 2%;
+        margin-top: 2%;
+        height: 20%;
+      }
+    .bottom-content2 {
+        display: flex;
+        flex-direction: column;
+        margin: 0 2% 20px;
+        justify-content: flex-start;
+    }
