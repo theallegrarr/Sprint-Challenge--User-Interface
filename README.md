@@ -38,10 +38,12 @@ Edit this document to include your answers after each question. Make sure to lea
 It is a markup tool that allows you to structure your webpage in a more meaningful way
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
 display: block will not allow elements to be beside it
 display: inline-block allows elements to be next to it
 
 3. What are the 4 areas of the box model?
+
 margin, padding, border and content
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
